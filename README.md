@@ -1,3 +1,26 @@
+# My Portfolio Website
+
+A modern, responsive portfolio website built with **React**, **Next.js**, **Typescript**, **Tailwind CSS**, and **Framer Motion** to showcase my projects, skills, experience, and contact information. 
+
+## Features
+
+- Fully responsive design for desktop, tablet, and mobile.
+- Smooth animations using **Framer Motion**.
+- Dark and Light mode support.
+- Showcase of Frontend & Backend skills with icons and animations.
+- Projects section with live demo and GitHub links.
+- Contact form for sending messages.
+
+## Tech Stack
+
+- **Frontend:** Next.js, React, Typescript, Tailwind CSS, Framer Motion
+- **Icons:** React Icons
+- **Backend/Contact Form:** Formspree
+- **Deployment:** Vercel
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
